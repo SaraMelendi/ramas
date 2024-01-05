@@ -1,3 +1,6 @@
 En la carpeta común-arreglos hemos dejado la solución
 
 editamos desde la rama arreglos
+
+Añado una nueva línea
+
